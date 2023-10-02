@@ -1,5 +1,5 @@
 # ProjectList
-All my projects is list here.
+All my projects is listed here.
 |Time|Project|URL|Description|
 |----|----|----|----|
 |2023|CommonLit|https://github.com/ZhechengLiao/CommonLit|Use BERT to do the grading tasks for grade 3-12 students' summary|
